@@ -1,0 +1,17 @@
+[CLS]: O
+we: O
+were: O
+just: O
+about: O
+to: O
+go: O
+up: O
+in: O
+the: O
+kong: B-MOUNTAIN
+##ur: I-MOUNTAIN
+shan: I-MOUNTAIN
+now: O
+.: O
+[SEP]: O
+[('[CLS]', 'O'), ('we', 'O'), ('were', 'O'), ('just', 'O'), ('about', 'O'), ('to', 'O'), ('go', 'O'), ('up', 'O'), ('in', 'O'), ('the', 'O'), ('kong', 'B-MOUNTAIN'), ('##ur', 'I-MOUNTAIN'), ('shan', 'I-MOUNTAIN'), ('now', 'O'), ('.', 'O'), ('[SEP]', 'O')]
